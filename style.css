@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+  outline: none;
+}
+
+.nav-link.active {
+  font-weight: bold;
+}
+.active {
+  color: #dc3545 !important;
+}
+
+.footer-wrp {
+  color: #8c94b8;
+  text-align: left;
+}
+.ftr-wrp {
+  text-align: right;
+  padding-right: 5rem;
+}
+
+.footer-wrpp h4 {
+  padding-bottom: 2rem;
+}
+.ftr-wrp h4 {
+  padding-bottom: 2rem;
+}
+.footer-wrapper li a {
+  text-decoration: none;
+  color: #8c94b8;
+  position: relative;
+  cursor: pointer;
+  transition: color 0.2s ease-in-out;
+  line-height: 2;
+}
+
+.footer-wrapper li a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-links li {
+  margin-right: 12px;
+}
+
+.footer-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-design {
+  font-size: 14px;
+}
+
+.lnk-dsgn {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+footer {
+  background-color: #0f0d32;
+}
+.p-design {
+  text-align: left;
+}
+.social-media {
+  margin-top: 12px;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.social-media a {
+  text-decoration: none;
+  color: #d5d5d5;
+  font-size: 1.3rem;
+  padding: 1px 6px;
+  border: 1px solid #8c94b8;
+  border-radius: 5px;
+  margin: 0px 4px;
+}
+
+.p-design {
+  line-height: 1.8;
+}
+.main {
+  padding: 3rem;
+}
+
+.input-area {
+  display: flex;
+  flex: 1;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  height: 4rem;
+  border-radius: 6px;
+}
+.mail-icon {
+  width: 10%;
+  margin: 0 auto;
+  padding: 20px 10px 10px 10px;
+}
+
+.input-area input {
+  width: 60%;
+  border: none;
+  outline: none;
+  padding: 10px;
+}
+.custom-input {
+  border-color: transparent !important;
+  box-shadow: none !important;
+}
+.input-area button {
+  height: 45px;
+  width: 27%;
+  margin: 10px;
+  border: none;
+  background: #dc3545;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.text-style {
+  text-align: left;
+}
+
+.text-style h1 {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.about-wrp {
+  text-align: left;
+}
+
+.about-wrp h1 {
+  font-size: 3.5rem;
+}
+
+.nav-box {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}

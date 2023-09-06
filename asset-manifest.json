@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Desh-Career/static/css/main.30ea52ad.css",
+    "main.js": "/Desh-Career/static/js/main.35f33b23.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Desh-Career/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Desh-Career/index.html",
+    "main.30ea52ad.css.map": "/Desh-Career/static/css/main.30ea52ad.css.map",
+    "main.35f33b23.js.map": "/Desh-Career/static/js/main.35f33b23.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Desh-Career/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.35f33b23.js"
+  ]
+}
